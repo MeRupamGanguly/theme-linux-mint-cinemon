@@ -8,6 +8,7 @@
 
 ![Image](https://github.com/user-attachments/assets/70678c32-5d0f-4bc0-b3e2-b2b4fadb2856)
 
+![Image](https://github.com/user-attachments/assets/af9232ad-1126-4556-8042-6b8aade1e107)
 
 ## Download Mint-Y-Dark-A-Mod 
 I modified the inbuild theme so no worries its safe and updated
