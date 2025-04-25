@@ -1,4 +1,11 @@
 # theme-linux-mint-cinemon
+
+![Image](https://github.com/user-attachments/assets/14ed17a0-ce0c-4aa1-98a4-6d62b0cfd10d)
+
+![Image](https://github.com/user-attachments/assets/ca9f5e61-f2dd-4444-be7d-b279de5b9cc1)
+
+![Image](https://github.com/user-attachments/assets/234a8bb5-76c7-4043-9766-4a45e8d7a7e9)
+
 ## Download Mint-Y-Dark-A-Mod 
 I modified the inbuild theme so no worries its safe and updated
 https://github.com/MeRupamGanguly/theme-linux-mint-cinemon/blob/main/Mint-Y-Dark-A-Mod.zip
