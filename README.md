@@ -20,6 +20,7 @@ https://github.com/MeRupamGanguly/theme-linux-mint-cinemon/blob/main/Mint-Y-Dark
 - On the left sidebar, click on Workbench
 - Under Workbench, find Appearance settings 
 - ![Image](https://github.com/user-attachments/assets/88eac50b-183b-47ac-884b-710ba665870c)
+- Click in `Edit in settings.json` and Paste the following code.
 ```json
 {
   "editor.wordWrap": "on",
