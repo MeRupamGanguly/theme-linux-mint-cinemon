@@ -11,7 +11,7 @@
 ![Image](https://github.com/user-attachments/assets/af9232ad-1126-4556-8042-6b8aade1e107)
 
 ## Download Mint-Y-Dark-A-Mod 
-I modified the inbuild theme so no worries its safe and updated
+I modified the inbuilt theme so no worries its safe and updated
 https://github.com/MeRupamGanguly/theme-linux-mint-cinemon/blob/main/Mint-Y-Dark-A-Mod.zip
 
 ## VS CODE Mud Theme
