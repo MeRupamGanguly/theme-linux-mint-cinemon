@@ -15,6 +15,11 @@ I modified the inbuild theme so no worries its safe and updated
 https://github.com/MeRupamGanguly/theme-linux-mint-cinemon/blob/main/Mint-Y-Dark-A-Mod.zip
 
 ## VS CODE Mud Theme
+
+- Go to the menu bar and click on File -> Preferences -> Settings.
+- On the left sidebar, click on Workbench
+- Under Workbench, find Appearance settings 
+- ![Image](https://github.com/user-attachments/assets/88eac50b-183b-47ac-884b-710ba665870c)
 ```json
 {
   "editor.wordWrap": "on",
