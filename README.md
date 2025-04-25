@@ -6,6 +6,9 @@
 
 ![Image](https://github.com/user-attachments/assets/234a8bb5-76c7-4043-9766-4a45e8d7a7e9)
 
+![Image](https://github.com/user-attachments/assets/70678c32-5d0f-4bc0-b3e2-b2b4fadb2856)
+
+
 ## Download Mint-Y-Dark-A-Mod 
 I modified the inbuild theme so no worries its safe and updated
 https://github.com/MeRupamGanguly/theme-linux-mint-cinemon/blob/main/Mint-Y-Dark-A-Mod.zip
@@ -139,6 +142,10 @@ cd /home/rupx/.local/share/rofi
 nano rofi-find.sh
 
 find /home/* -type f | rofi -dmenu -i -p "Find File:" | xargs -I {} xdg-open {}
+
+
+chmod +x rofi-find.sh
+
 
 cd ~
 mkdir /home/rupx/.config/rofi
