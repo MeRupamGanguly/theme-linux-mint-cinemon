@@ -318,9 +318,16 @@ rofi -show drun
 
 ```
 
+## Export/Import Panel Settings
+Export
+```bash
+dconf dump /org/cinnamon/ > cinnamon_panel_settings.dconf
+```
 
-
-
+Import
+```bash
+dconf load /org/cinnamon/ < cinnamon_panel_settings.dconf
+```
 
 
 
