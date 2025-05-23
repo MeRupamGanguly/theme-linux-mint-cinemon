@@ -42,7 +42,11 @@ https://github.com/MeRupamGanguly/theme-linux-mint-cinemon/blob/main/Mint-Y-Dark
     "panel.background": "#23272e",
     "panelSectionHeader.background": "#23272e",
     "statusBar.background": "#23272e",
-    "statusBar.foreground": "#9da5b4",
+    "statusBar.foreground": "#abb2bf",
+    "statusBar.noFolderBackground": "#23272e",
+    "statusBar.noFolderForeground": "#abb2bf",
+    "statusBar.debuggingBackground": "#23272e",
+    "statusBar.debuggingForeground": "#abb2bf",
     "tab.activeBackground": "#23272e",
     "tab.activeBorderTop": "#07e2ff",
     "tab.inactiveBackground": "#23272e",
@@ -133,10 +137,9 @@ https://github.com/MeRupamGanguly/theme-linux-mint-cinemon/blob/main/Mint-Y-Dark
     "debugToolBarItem.background": "#2c313a",
     "debugToolBarItem.foreground": "#abb2bf",
     "debugToolBarItem.hoverBackground": "#3e4452",
-    "debugToolBarItem.activeBackground": "#4d78cc"
+    "debugToolBarItem.activeBackground": "#4d78cc",
   },
-  "window.menuBarVisibility": "compact",
-  "workbench.statusBar.visible": false
+  "window.menuBarVisibility": "compact"
 }
 ```
 
