@@ -1,0 +1,107 @@
+
+.helloworld-label {
+    font-size: 72px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 5px;
+    padding: .5em;
+}
+
+.multimonitor-spacer {
+	height: 4em;
+}
+
+.multimonitor-status-indicators-box {
+    gap: 0px;
+}
+
+.multimonitor-status-icon {
+    padding: 0 2px;
+}
+
+.workspace-thumbnails-left {
+  border-radius: 0 9px 9px 0; 
+}
+
+.workspace-thumbnails-left:rtl {
+    border-radius: 9px 0 0 9px;
+}
+
+/* Mirrored indicators should inherit styling from their cloned source.
+   The Clutter.Clone automatically scales content, ensuring proper font sizes. */
+
+/* Activities button styling for external monitors */
+/* Activities/Workspace indicator - full height hover like main panel */
+#mmPanelActivities,
+.mm-activities {
+    padding: 0 12px;
+}
+
+#mmPanelActivities:hover,
+.mm-activities:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#mmPanelActivities:active,
+#mmPanelActivities:overview,
+.mm-activities:active,
+.mm-activities:checked {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Padding for mirrored indicators (e.g., Vitals extension) */
+.panel-status-menu-box {
+    padding: 0px 2px;
+    min-height: 24px;
+}
+
+/* Quick Settings (system tray) in extended monitor */
+.mm-quick-settings {
+    padding: 0;
+    -natural-hpadding: 0;
+    -minimum-hpadding: 0;
+}
+
+.mm-quick-settings-box {
+    padding: 0;
+    margin: 0;
+}
+
+/* Clipping container for system tray - adjust padding to control size during overview */
+.mm-quick-settings-clip {
+    padding: 4px 0;
+    margin: 0;
+}
+
+/* Normal state - adjust this to control default icon size and padding */
+.mm-quick-settings-normal {
+    height: 42px;
+    padding: 0 2px;
+    scale: 1.25;
+}
+
+/* Overview state - adjust this to control icon size and padding during overview */
+.mm-quick-settings-overview {
+    height: 36px;
+    padding: 0 2px;
+}
+
+/* Favorites menu in extended monitor - full height */
+.mm-favorites-menu {
+    padding: 0 4px;
+    -natural-hpadding: 4px;
+    -minimum-hpadding: 4px;
+}
+
+.mm-favorites-menu-box {
+    padding: 0;
+    margin: 0;
+}
+
+/* System tray icons in extended monitor - prevent shrinking */
+.multimonitor-status-indicators-box .panel-button,
+.multimonitor-status-indicators-box .system-status-icon {
+    min-height: 30px;
+    padding: 4px 8px;
+}
