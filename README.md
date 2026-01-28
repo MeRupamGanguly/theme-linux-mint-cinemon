@@ -1,5 +1,8 @@
 # theme-linux-mint-cinemon
 
+thegtdev@theGTdev:~$ sudo apt install gnome-shell-extension-manager
+
+
 ![Image](https://github.com/user-attachments/assets/14ed17a0-ce0c-4aa1-98a4-6d62b0cfd10d)
 
 ![Image](https://github.com/user-attachments/assets/ca9f5e61-f2dd-4444-be7d-b279de5b9cc1)
