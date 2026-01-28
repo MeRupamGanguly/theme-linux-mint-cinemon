@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.alt-tab-current-monitor" path="/org/gnome/shell/extensions/alt-tab-current-monitor/">
+    <key name="use-mouse-monitor" type="b">
+      <default>true</default>
+      <summary>Use mouse pointer monitor</summary>
+      <description>When enabled, the "current monitor" is the one where your mouse pointer is located. When disabled, it's the monitor with the focused window.</description>
+    </key>
+    <key name="prevent-focus-on-other-displays" type="b">
+      <default>true</default>
+      <summary>Keep focus on current monitor when switching workspaces</summary>
+      <description>When enabled, switching workspaces will not change focus to windows on other monitors.</description>
+    </key>
+    <key name="enable-debugging" type="b">
+      <default>false</default>
+      <summary>Enable debugging logs</summary>
+      <description>When enabled, detailed debugging information will be logged to the journal.</description>
+    </key>
+    <key name="other-monitors-modifier-key" type="s">
+      <default>'Shift'</default>
+      <summary>Modifier key for switching to windows on other monitors</summary>
+      <description>When this modifier key is held while using Alt+Tab, windows from monitors other than the current one will be shown. Set to empty to disable this feature.</description>
+    </key>
+  </schema>
+</schemalist>
